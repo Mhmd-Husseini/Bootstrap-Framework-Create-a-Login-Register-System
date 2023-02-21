@@ -1,0 +1,19 @@
+body{
+background-color: rose;}
+ }
+.container{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  height: 100vh;
+
+
+
+}
+.form{
+width: 30%;
+}
+.a{
+width: 70%;
+
+}
